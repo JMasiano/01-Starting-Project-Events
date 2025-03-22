@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 import './index.css';
 
-// This is not an important comment
+// This is an important comment
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
